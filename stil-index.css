@@ -1,0 +1,38 @@
+/* CSS Document */
+body{
+	background-image: url("Mediji/022.jpg");
+	background-size: 1920px 3413px;
+	color: #583F2F;
+	font-family: "Abril Fatface";
+	text-align: center;
+}
+p {
+	color: #583F2F;
+	font-size: 20px;
+	font-family: "Lato";
+	border-radius: 8px;
+	background-color: rgba(255, 225, 270, 0.3);
+	padding: 30px;
+	}
+ul {
+	list-style-type: none;
+	font-family: "Lato";
+}
+li {
+	-float: left;
+	width: 98%;
+}
+a {
+	display: block;
+	background-color: #BB8967;
+	text-decoration: none;
+	text-align: center;
+	padding: 14px 16px;
+	border-radius: 25px;
+	color: white;
+}
+a:hover{
+	background-color: rgba(255, 225, 270, 0.3);
+	color: #896249;
+}
+
